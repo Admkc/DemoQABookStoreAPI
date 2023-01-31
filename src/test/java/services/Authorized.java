@@ -11,7 +11,7 @@ import java.util.Map;
 public class Authorized {
 
     Response response;
-    String token;
+
 
     public void userAuthorized(){
 
